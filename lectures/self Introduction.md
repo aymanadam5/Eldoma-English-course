@@ -1,4 +1,6 @@
-# Self Introducation 
+# [Self Introduction](https://github.com/aymanadam5/Eldoma-English-course/blob/master/lectures/self%20Introduction.md)
+
+
 ### you may need to introduce your self 
 - In your english class 
 - At a jop interview
